@@ -7,13 +7,17 @@ The project aims to create a comprehensive Excel dashboard that visualizes and a
 **2.The working sheet-Bike Sales Project.**
 The Bike sales project file contains 3 sheets 
       1. The working sheet - Contained cleaned data.
-      <img width="956" alt="image" src="https://github.com/jadhavvaish/Bike-Sales-Dashboard-Creation-Using-Excel/assets/81427041/b3f91c45-e9f8-495b-99ab-496cf22ff306">
+<img width="956" alt="image" src="https://github.com/jadhavvaish/Bike-Sales-Dashboard-Creation-Using-Excel/assets/81427041/b3f91c45-e9f8-495b-99ab-496cf22ff306">
 
       2. Pivot table sheet - Contained the prepared data i.e the pivot tables used for visualization.
-      <img width="947" alt="image" src="https://github.com/jadhavvaish/Bike-Sales-Dashboard-Creation-Using-Excel/assets/81427041/905b6809-f340-422c-8672-0a2498845366">
+<img width="901" alt="image" src="https://github.com/jadhavvaish/Bike-Sales-Dashboard-Creation-Using-Excel/assets/81427041/a0394e70-6010-48dd-a43d-9dede9ed8487">
 
       3. Dashborad - Contains the interactive dashboard created for the Bike sales dataset.
-      <img width="698" alt="image" src="https://github.com/jadhavvaish/Bike-Sales-Dashboard-Creation-Using-Excel/assets/81427041/c1624062-d7d4-4657-bfc4-ff8151f0f77d">
+<img width="809" alt="image" src="https://github.com/jadhavvaish/Bike-Sales-Dashboard-Creation-Using-Excel/assets/81427041/cbca719e-ddc9-49be-b22e-7d1bbfd213e5">
+
+
+      
+
 
 
 
